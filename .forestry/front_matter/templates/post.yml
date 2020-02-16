@@ -31,4 +31,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/ehanced-privacy-with-decentralized-identity.md
 - content/post/radicalxchange-taipei.md
