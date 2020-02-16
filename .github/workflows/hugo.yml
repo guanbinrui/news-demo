@@ -10,6 +10,11 @@ jobs:
     steps:
       - name: Check out code
         uses: actions/checkout@master
+        with:
+          submodules: true
       - name: Hugo gh-pages action
         uses: mattbailey/actions-hugo@v0.57.2
+        env:
+          HUGO_BASEURL: http://guanbinrui.github.io/news-demo/
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           
