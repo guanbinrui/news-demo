@@ -30,3 +30,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/web全栈大会-ehanced-privacy-with-decentralized-identity.md
