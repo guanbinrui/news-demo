@@ -1,12 +1,11 @@
 +++
 authors = []
 date = 2019-11-16T16:00:00Z
-draft = true
 excerpt = "2019 年 11 月 17 日，Dimension 受邀参加了 2019 成都 Web 全栈大会，Jack Works（ Dimension 现代前端魔法使 ）在全栈大会上发表了“ Enhanced Privacy with Decentralized Identity ”的演讲，向前来现场的程序员小哥哥，小姐姐们从技术角度讲解了 Maskbook 的技术原理。"
 hero = "/uploads/hero-3.jpg"
 title = "Ehanced Privacy with Decentralized Identity"
-+++
 
++++
 2019 年 11 月 17 日，Dimension 受邀参加了 2019 成都 Web 全栈大会，Jack Works（ Dimension 现代前端魔法使 ）在全栈大会上发表了“ Enhanced Privacy with Decentralized Identity ”的演讲，向前来现场的程序员小哥哥，小姐姐们从技术角度讲解了 Maskbook 的技术原理。
 
 Maskbook 是一个浏览器插件，可以让用户在正常使用 Facebook 、Twitter 等社交网络的情况下，保护用户的个人隐私。为此，Maskbook 使用了密码学原理（对称加密和非对称加密），帮助 Maskbook 的用户对他们的数据进行加密处理，避免大平台滥用用户的数据隐私以达到盈利的目的。同时使用了许多前端技术来确保去中心化和隐私安全，包括了 GunDB （一个去中心化图数据库），@holoflows/kit （一个自己造的浏览器扩展开发工具包）、ShadowRoot（ Web 标准 ）。
