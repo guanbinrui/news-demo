@@ -1,13 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://maskbook-news-demo.netlify.com/authors/</loc>
+    <loc>http://guanbinrui.github.io/news-demo/</loc>
+    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://maskbook-news-demo.netlify.com/</loc>
+    <loc>http://guanbinrui.github.io/news-demo/post/</loc>
+    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guanbinrui.github.io/news-demo/post/radicalxchange-taipei/</loc>
+    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guanbinrui.github.io/news-demo/post/ehanced-privacy-with-decentralized-identity/</loc>
+    <lastmod>2019-11-16T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guanbinrui.github.io/news-demo/authors/</loc>
   </url>
   
 </urlset>
