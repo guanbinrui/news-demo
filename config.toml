@@ -1,0 +1,4 @@
+baseURL = "https://maskbook-news-demo.netlify.com"
+languageCode = "en-us"
+title = "Maskbook News DEMO"
+theme = "hugo-theme-novela"
