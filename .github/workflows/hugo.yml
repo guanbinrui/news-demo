@@ -21,6 +21,6 @@ jobs:
       - name: Hugo gh-pages action
         uses: mattbailey/actions-hugo@v0.57.2
         env:
-          HUGO_BASEURL: http://guanbinrui.github.io/news-demo/
+          HUGO_BASEURL: https://guanbinrui.github.io/news-demo/
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           
