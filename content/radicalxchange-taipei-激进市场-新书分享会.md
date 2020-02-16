@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["test"]
 date = 2019-11-22T16:00:00Z
 draft = true
 hero = "/uploads/1.jpg"
