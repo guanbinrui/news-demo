@@ -18,3 +18,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- config/_default/TEST.yaml
