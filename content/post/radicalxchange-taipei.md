@@ -3,7 +3,7 @@ authors = []
 date = 2019-11-26T16:00:00Z
 draft = true
 excerpt = "2019 年 11 月 27 日，RadicalxChange Taipei 举办了第三场线下活动，这次活动的主题聚焦在《激进市场》新书分享、议题讨论等。"
-hero = "/images/5.jpg"
+hero = "/uploads/hero-2.jpg"
 title = "RadicalxChange Taipei"
 
 +++
