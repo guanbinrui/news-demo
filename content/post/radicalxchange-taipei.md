@@ -1,12 +1,11 @@
 +++
 authors = []
 date = 2019-11-26T16:00:00Z
-draft = true
 excerpt = "2019 年 11 月 27 日，RadicalxChange Taipei 举办了第三场线下活动，这次活动的主题聚焦在《激进市场》新书分享、议题讨论等。"
 hero = "/uploads/hero-2.jpg"
 title = "RadicalxChange Taipei"
-+++
 
++++
 2019 年 11 月 27 日，RadicalxChange Taipei 举办了第三场线下活动，这次活动的主题聚焦在《激进市场》新书分享、议题讨论等。
 
 本次活动邀请了 Dimension CEO Suji Yan、 陈昶吾、Mason Kung 和梁智程等人进行分享。主要针对《激进市场》新书书籍中的第 4 章“肢解大章鱼 ”Chapter 4:" Dismembering the Octopus "，以及第 5 章“数据作为劳动成果 ”Chapter 5: “ Data as Labor "等章节进行重点讨论。
