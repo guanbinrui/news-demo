@@ -31,6 +31,7 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/dimension-in-6th-annual-hackers-congress-paralelní-polis.md
 - content/post/dweb-shanghai-no-2-decentralization-why-and-how.md
 - content/post/ehanced-privacy-with-decentralized-identity.md
 - content/post/radicalxchange-taipei.md
