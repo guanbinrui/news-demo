@@ -26,3 +26,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/radicalxchange-taipei-激进市场-新书分享会.md
