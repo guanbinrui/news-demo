@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Maskbook News DEMO</title>
-    <link>http://guanbinrui.github.io/news-demo/post/</link>
+    <link>https://guanbinrui.github.io/news-demo/post/</link>
     <description>Recent content in Posts on Maskbook News DEMO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Nov 2019 16:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://guanbinrui.github.io/news-demo/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://guanbinrui.github.io/news-demo/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>RadicalxChange Taipei</title>
-      <link>http://guanbinrui.github.io/news-demo/post/radicalxchange-taipei/</link>
+      <link>https://guanbinrui.github.io/news-demo/post/radicalxchange-taipei/</link>
       <pubDate>Tue, 26 Nov 2019 16:00:00 +0000</pubDate>
       
-      <guid>http://guanbinrui.github.io/news-demo/post/radicalxchange-taipei/</guid>
+      <guid>https://guanbinrui.github.io/news-demo/post/radicalxchange-taipei/</guid>
       <description>2019 年 11 月 27 日，RadicalxChange Taipei 举办了第三场线下活动，这次活动的主题聚焦在《激进市场》新书分享、议题讨论等。
 本次活动邀请了 Dimension CEO Suji Yan、 陈昶吾、Mason Kung 和梁智程等人进行分享。主要针对《激进市场》新书书籍中的第 4 章“肢解大章鱼 ”Chapter 4:&amp;rdquo; Dismembering the Octopus &amp;ldquo;，以及第 5 章“数据作为劳动成果 ”Chapter 5: “ Data as Labor &amp;ldquo;等章节进行重点讨论。
 Suji Yan 这次受邀分享的主题是“996.ICU – The Continuation of FOSS ( Free/Open-source Software ) Movement and Data – The New Form of Labor”。（ 996.ICU – 自由与开源软件运动的延续，以及数据作为一种新形式的劳动）。
@@ -25,10 +25,10 @@ Suji Yan 在分享中提到：如果将网络社会的所有活动视作网民�
     
     <item>
       <title>Ehanced Privacy with Decentralized Identity</title>
-      <link>http://guanbinrui.github.io/news-demo/post/ehanced-privacy-with-decentralized-identity/</link>
+      <link>https://guanbinrui.github.io/news-demo/post/ehanced-privacy-with-decentralized-identity/</link>
       <pubDate>Sat, 16 Nov 2019 16:00:00 +0000</pubDate>
       
-      <guid>http://guanbinrui.github.io/news-demo/post/ehanced-privacy-with-decentralized-identity/</guid>
+      <guid>https://guanbinrui.github.io/news-demo/post/ehanced-privacy-with-decentralized-identity/</guid>
       <description>2019 年 11 月 17 日，Dimension 受邀参加了 2019 成都 Web 全栈大会，Jack Works（ Dimension 现代前端魔法使 ）在全栈大会上发表了“ Enhanced Privacy with Decentralized Identity ”的演讲，向前来现场的程序员小哥哥，小姐姐们从技术角度讲解了 Maskbook 的技术原理。
 Maskbook 是一个浏览器插件，可以让用户在正常使用 Facebook 、Twitter 等社交网络的情况下，保护用户的个人隐私。为此，Maskbook 使用了密码学原理（对称加密和非对称加密），帮助 Maskbook 的用户对他们的数据进行加密处理，避免大平台滥用用户的数据隐私以达到盈利的目的。同时使用了许多前端技术来确保去中心化和隐私安全，包括了 GunDB （一个去中心化图数据库），@holoflows/kit （一个自己造的浏览器扩展开发工具包）、ShadowRoot（ Web 标准 ）。
 Maskbook 是由 Dimension 公司开发的开源浏览器插件，是不受政府，组织控制的。当初想要开发 Maskbook 的原因是因为 Facebook 窃取用户数据，贩售数据以达到谋取利润的目的，更甚的是利用这些数据影响政治，操控大选。所以 Dimension 想在 Facebook 上添加一层，用科技手段来组织头部的互联网企业滥用用户隐私，将数据的控制权回归于用户自己。当然 Maskbook 的使用者也无需担心开发人员会在背后使用用户的数据隐私，整个开发的过程也是透明公开的。
