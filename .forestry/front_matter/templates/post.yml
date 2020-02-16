@@ -7,15 +7,19 @@ fields:
   config:
     required: false
   label: Title
-  description: Give a title for your new post.
+- name: excerpt
+  type: text
+  config:
+    required: false
+  label: Excerpt
 - name: date
   type: datetime
   label: Date
-  description: The publish date of the post.
+  description: ''
   config:
-    required: true
-    date_format: 
-    time_format: 
+    required: false
+    date_format:
+    time_format:
     display_utc: false
 - name: hero
   type: file
